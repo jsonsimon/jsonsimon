@@ -5,27 +5,27 @@ Swedish Computer Scince Major at Oklahoma City University (Graduating 2029)
 
 ---
 
-## 📊 GitHub Stats & Widgets
+## GitHub Stats & Widgets
 
 <div align="center">
 
-### 📈 Profile Statistics
+### Profile Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsonsimon&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=5e81ac&icon_color=88c0d0&text_color=e5e9f0)
 
-### 💻 Most Used Languages
+### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsimon&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=5e81ac&text_color=e5e9f0)
 
-### 🔥 Contribution Streak
+### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsonsimon&theme=nord&hide_border=true&background=0d1117&stroke=5e81ac&ring=88c0d0&fire=d08770&currStreakLabel=e5e9f0&sideLabels=e5e9f0&currStreakNum=e5e9f0&sideNums=e5e9f0&dates=e5e9f0)
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jsonsimon&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=2&column=3)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -48,13 +48,13 @@ Swedish Computer Scince Major at Oklahoma City University (Graduating 2029)
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsonsimon&theme=nord&hide_border=true&bg_color=0d1117&color=5e81ac&line=88c0d0&point=e5e9f0)
 
 ---
 
-## 📫 Kontakta mig (Contact Me)
+## Contact Me
 
 <div align="center">
 
